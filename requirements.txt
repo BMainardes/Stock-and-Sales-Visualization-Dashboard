@@ -1,0 +1,4 @@
+yfinance
+dash
+pandas
+numpy
